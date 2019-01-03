@@ -159,6 +159,7 @@ line-height: 2px;
 
 .card-img-top:hover {
   display: none;
+  cursor: pointer;
 }
 
 .au-pair:hover {
